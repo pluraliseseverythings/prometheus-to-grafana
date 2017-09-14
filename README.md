@@ -25,3 +25,6 @@ ai_grakn_engine_controller_ConceptController_concept_by_identifier{quantile="0.9
 ai_grakn_engine_controller_GraqlController_execute_graql_get_count 2.0
 ai_grakn_engine_controller_GraqlController_execute_graql_get_sum 0.924807801
 ```
+
+### Note
+You are very encouraged to contribute! I'm not a Javascript developer and there's a lot of room for improvement.
